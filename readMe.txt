@@ -5,7 +5,8 @@
 # test other colleage pull from you
 # 需要提交代码 4
 # 3
-# 4 测试一下通过命令 我想创建一个冲突，测试一下rebase  commit, pull, push
+# 4 测试一下通过命令 这里要发生冲突 commit(我想创建一个冲突，测试一下rebase, merge处理), pull, push
+
 
 
 
