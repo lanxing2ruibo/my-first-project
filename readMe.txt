@@ -5,7 +5,7 @@
 # test other colleage pull from you
 # 需要提交代码 4
 # 3
-# 4 测试一下通过命令 commit, pull, push
+# 4 测试一下通过命令 这里要发生冲突 commit, pull, push
 
 
 
